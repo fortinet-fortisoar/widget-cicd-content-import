@@ -6,7 +6,7 @@
     "published_date": 1754031032,
     "releaseNotes": "unavailable",
     "metadata": {
-        "help_online": "",
+        "help_online": "https://github.com/fortinet-fortisoar/widget-cicd-content-import/blob/release/1.0.0/README.md",
         "description": "To allow users to select a source control repository, review its content, and import the latest content or settings into FortiSOAR—with control over what gets applied via editable export templates.",
         "pages": [
             "View Panel"
